@@ -1,14 +1,22 @@
 # BetaTopics
-This is a place where you can find list of useful articles in selected technologies/topics.\
-If you prefer full screen view you can find this topics at link: **[Beta Topics](https://djolewalker.github.io/BetaTopics/)**
+This is a place where you can find a curated list of useful articles on selected technologies/topics. \
+Web view can be found at the following link: **[Beta Topics](https://djolewalker.github.io/BetaTopics/)**.
 
-Idea of this library **is not to provide tutorials and official documentations** that anyone can reach.
-The goal is to have useful articles in one library that will extend you knowledge and make your free moments at work good for your knowledgebase.
+The idea behind this library is not to provide tutorials and official documentation that anyone can easily reach. 
+Instead, the goal is to create a centralized repository of valuable articles that can expand your knowledge and make good use of your free moments at work to enhance your knowledge base.
 
-Articles are organized in folders per specific technology. 
+The articles are organized into folders based on specific technologies. 
+Each article will be accompanied by a brief description. Additionally, it would be helpful to include some highlighted keywords or phrases under each description to facilitate topic browsing.
 
-Each article should be described in couple of words. It would be nice to add some higligths 
-words under description that will make topic surfing easier.
+## Table of currently available technologies
+
+| No. | Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
+| --- | --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/tree/main/React)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
+| 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/blob/main/Angular)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
+
+## Contribution
+Feel free to participate. Join me as contributor or Fork this repo.
 
 ## Example of an article:
 
@@ -22,13 +30,3 @@ Highlights: `JWT`  `react-router` `axios`
 
 ---
 ...
-
-## Table of currently available technologies
-
-| No. | Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
-| --- | --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/tree/main/React)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
-| 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/blob/main/Angular)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
-
-## Contribution
-Feel free to participate. Join me as contributor or Fork this repo.
