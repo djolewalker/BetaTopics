@@ -21,6 +21,7 @@ Feel free to participate. Create PR with your suggested articles.
 
 ### Table of currently available technologies
 
-| Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
-| --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| React                                         | [README](https://github.com/djolewalker/BetaTopics/React#readme)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
+| No. | Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
+| --- | --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/React#readme)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
+| 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/Angular#readme)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
