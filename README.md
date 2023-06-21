@@ -21,7 +21,8 @@ Feel free to participate. Join me as contributor or Fork this repo.
 ## Example of an article:
 
 ...
-________
+
+---
 
 ### **1. JWT Authentication in React with react-router** - [https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03)
 Good example how we can integrate JWT authentication with React and react-router. How to handle public routes, secure authenticated routes. 
@@ -29,4 +30,5 @@ Utilize the axios library to make API requests with the authentication token. \
 Highlights: `JWT`  `react-router` `axios`
 
 ---
+
 ...
