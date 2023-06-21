@@ -1,5 +1,6 @@
 # BetaTopics
-This is a place where you can find list of useful articles in selected technologies/topics.
+This is a place where you can find list of useful articles in selected technologies/topics.\
+If you prefer full screen view you can find this topics at link: [Beta Topics](https://djolewalker.github.io/BetaTopics/)
 
 Idea of this library **is not to provide tutorials and official documentations** that anyone can reach.
 The goal is to have useful articles in one library that will extend you knowledge and make your free moments at work good for your knowledgebase.
@@ -18,3 +19,8 @@ Example of an article:
 
 Feel free to participate. Create PR with your suggested articles.
 
+### Table of currently available technologies
+
+| Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
+| --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| React                                         | [README](https://github.com/djolewalker/BetaTopics/React#readme)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
