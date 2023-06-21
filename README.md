@@ -10,15 +10,18 @@ Articles are organized in folders per specific technology.
 Each article should be described in couple of words. It would be nice to add some higligths 
 words under description that will make topic surfing easier.
 
-Example of an article:
+## Example of an article:
 
----
+...
+________
+
 ### **1. JWT Authentication in React with react-router** - [https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03)
 Good example how we can integrate JWT authentication with React and react-router. How to handle public routes, secure authenticated routes. 
 Utilize the axios library to make API requests with the authentication token. \
 Highlights: `JWT`  `react-router` `axios`
 
 ---
+...
 
 ## Table of currently available technologies
 
