@@ -12,16 +12,20 @@ words under description that will make topic surfing easier.
 
 Example of an article:
 
-1. **JWT Authentication in React with react-router - [https://dev.to/sanjayttg](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03?utm_source=reactdigest&utm_medium&utm_campaign=1655)**\
-   Good example how we can integrate JWT authentication with React and react-router. How to handle public routes, secure authenticated routes.
-   Utilize the axios library to make API requests with the authentication token.\
-   Highlights: `JWT` `react-router` `axios`
+### **1. JWT Authentication in React with react-router** - [https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03)
+Good example how we can integrate JWT authentication with React and react-router. How to handle public routes, secure authenticated routes. 
+Utilize the axios library to make API requests with the authentication token. \
+Highlights: `JWT`  `react-router` `axios`
 
-Feel free to participate. Create PR with your suggested articles.
+</br> 
 
-### Table of currently available technologies
+## Table of currently available technologies
 
 | No. | Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
 | --- | --------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/React#readme)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
-| 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/Angular#readme)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
+| 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/tree/main/React)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
+| 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/blob/main/Angular)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
+
+</br> 
+
+Feel free to participate. Join me as contributor or Fork this repo.

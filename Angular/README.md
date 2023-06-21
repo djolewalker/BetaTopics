@@ -1,4 +1,4 @@
-﻿# Angular
+﻿## Angular
 
 List of articles related to Angular framework
 
