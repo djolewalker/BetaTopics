@@ -20,8 +20,6 @@ Highlights: `JWT`  `react-router` `axios`
 
 ---
 
-</br> 
-
 ## Table of currently available technologies
 
 | No. | Technology                                    | Readme at GitHub                                                    | URL at web pages                                           |
