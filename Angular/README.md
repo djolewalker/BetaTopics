@@ -25,3 +25,9 @@ Highlights: `RxJS` `subscriptions`
 ### **4. How to turn on Angular Debug Tools to measure change detection cycle time** - [https://phamhuuhien.medium.com/how-to-turn-on-angular-debug-tools-to-measure-change-detection-cycle-time-dc6d87405302](https://phamhuuhien.medium.com/how-to-turn-on-angular-debug-tools-to-measure-change-detection-cycle-time-dc6d87405302)
 Angular has a tool that helps developers to measure how long will it take for a change detection cycle on average for a specific screen in your Angular application, but it is turned off by default. \
 Highlights: `optimization` `performances` `development` `change detection`
+
+<br/>
+
+### **5. Profiling Angular Change Detection** - [https://dmitrymogilko.medium.com/profiling-angular-change-detection-c00605862b9f](https://dmitrymogilko.medium.com/profiling-angular-change-detection-c00605862b9f)
+[Angular Change detection](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular) is the central mechanism in the framework. This is an example how you can measure Angular change detection cycle time in raw numbers. \
+Highlights: `simple` `measurement` `change detection`
