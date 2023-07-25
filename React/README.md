@@ -33,3 +33,29 @@ Highlights: `Server Components` `angular.js to Angular 2`  `braking changes` `Ne
 ### **5. MouseTracker: A react component that follows your mouse** - [https://yoavik.com/snippets/mouse-tracker](https://yoavik.com/snippets/mouse-tracker)
 This component lets you render content that follows your mouse. The component accepts any children, and renders them into a fixed-position div that takes the coordinates of the mouse, with optional offsets.  \
 Highlights: `component` `mouse tracking`
+
+<br/>
+
+### **6. Writing Clean and Efficient React Code - Best Practices and Optimization Techniques** - [https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d](https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d)
+Various techniques and strategies to write clean and efficient code in your React applications. By following these best practices, you can improve the **maintainability**, **performance**, and **readability** of your codebase.  \
+Highlights: `bestpractices` `javascript` `cleancode`
+
+<br/>
+
+### **7. How to test custom React hooks** - [https://kentcdodds.com/blog/how-to-test-custom-react-hooks](https://kentcdodds.com/blog/how-to-test-custom-react-hooks)
+Examples how we can write simple test cases to test our custom hooks. Examples are using `@react-hooks-testing-library` \
+Highlights: `test` `react-hooks-testing-library` `custom hooks`
+
+<br/>
+
+### **8. React Hook for Avoiding Flash of Empty UI While Data Transitions** - [https://www.jameskerr.blog/posts/use-data-transition](https://www.jameskerr.blog/posts/use-data-transition)
+Simple hook to cache data and prevent fast requests flash your content.  \
+Highlights: `custom hooks` `cache` `requests`
+
+<br/>
+
+### **9. React can update state during render** - [https://swizec.com/blog/react-can-update-state-during-render/](https://swizec.com/blog/react-can-update-state-during-render/)
+After years of using React, it still packs a surprise. Did you know you can update state while rendering?  \
+Highlights: `render` `hooks` `useEffect` `setState`
+
+<br/>
