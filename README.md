@@ -15,6 +15,7 @@ Each article will be accompanied by a brief description. Additionally, it would 
 | 1   | React                                         | [README](https://github.com/djolewalker/BetaTopics/tree/main/React)    | [WEB](https://djolewalker.github.io/BetaTopics/React/)     |
 | 2   | Angular                                       | [README](https://github.com/djolewalker/BetaTopics/blob/main/Angular)  | [WEB](https://djolewalker.github.io/BetaTopics/Angular/)   |
 | 3   | Programming in general                        | [README](https://github.com/djolewalker/BetaTopics/blob/main/Programming)  | [WEB](https://djolewalker.github.io/BetaTopics/Programming/)   |
+| 4   | PersonalDevelopment                           | [README](https://github.com/djolewalker/BetaTopics/blob/main/PersonalDevelopment)  | [WEB](https://djolewalker.github.io/BetaTopics/PersonalDevelopment/)   |
 
 ## Contribution
 Feel free to participate. Join me as contributor or Fork this repo.
